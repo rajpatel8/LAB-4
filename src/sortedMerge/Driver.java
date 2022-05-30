@@ -66,6 +66,7 @@ class DoublyLinkedList {
 			result.insert(curr1.data);
 			curr1 = curr1.next;
 		}
+		//koment
 		
 		while(curr2 != null) {
 			result.insert(curr2.data);
